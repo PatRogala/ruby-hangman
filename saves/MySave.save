@@ -1,0 +1,20 @@
+--- !ruby/object:Hangman
+secret_word: transvestite
+chances: 3
+guess:
+- _
+- _
+- a
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+incorrect_guesses:
+- z
+- x
+- c
