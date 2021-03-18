@@ -70,6 +70,7 @@ class Hangman
 
   def play_round
     print_board
+    puts 'Type "save" to save game'
     print 'Letter: '
     letter = gets.chomp.downcase
     if !correct_guess?(letter)
