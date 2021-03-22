@@ -3,6 +3,8 @@ Created as part of The Odin Project curriculum.
 
 [Live Demo](https://replit.com/@PatRogala/ruby-hangman)
 
+<img src="preview.jpg" alt="drawing" width="400"/>
+
 ## Start the game
 ```shell
 ruby game.rb
